@@ -11,3 +11,7 @@ To Update: make wait times dynamic -> rn it does compulsory waits which makes it
   It's just an experimental project created to learn scraping from an actual big scale website  
   
   I will not hold responsibility if you choose to borrow and change any part of the code (especially the wait times!)  
+
+### Requirements
+1. Requires chromedriver to be in the same dir as the project  
+2. Username and Password field have to be filled to watch it run!  
